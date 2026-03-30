@@ -1,9 +1,13 @@
 {
   "name": "prompt-logger",
   "version": "1.0.0",
-  "description": "Auto-record prompts for AI usage evaluation. Search, rate, analyze, and export your Claude Code interaction history.",
+  "description": "Auto-record every prompt into SQLite. Search, rate, analyze stats, and export your Claude Code interaction history.",
   "author": {
-    "name": "prompt-logger"
+    "name": "bart"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["logging", "analytics", "prompts", "productivity"],
+  "repository": "https://github.com/bart/prompt-logger",
+  "commands": "./commands",
+  "hooks": "./hooks/hooks.json"
 }
