@@ -1,0 +1,9 @@
+{
+  "name": "prompt-logger",
+  "version": "1.0.0",
+  "description": "Auto-record prompts for AI usage evaluation. Search, rate, analyze, and export your Claude Code interaction history.",
+  "author": {
+    "name": "prompt-logger"
+  },
+  "license": "MIT"
+}
